@@ -14,5 +14,3 @@
 ---
 
 ## Second heading
-
-## Third
