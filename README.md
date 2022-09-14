@@ -9,4 +9,8 @@
 #### Three
 * One
 * Two
-- Three
+* Three
+
+---
+
+## Second heading
